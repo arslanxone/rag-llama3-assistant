@@ -1,0 +1,20 @@
+The Technical Evolution of the Espresso Machine (1884–Present) 
+I. The Steam Era: Speed Over Quality
+1884 - Angelo Moriondo (Turin): Patented the first steam-driven coffee brewer (Patent No. 33/256). It was a large-scale boiler system that brewed coffee in bulk. While it reduced brew time, it lacked the ability to serve individual portions.
+1901 - Luigi Bezzera (Milan): Improved the design by introducing the "Tipo Gigante," featuring individual group heads and portafilters. This allowed for single-serve, "express" coffee, but the water was pushed by steam at only 1.5 bars of pressure, often resulting in a burnt, bitter taste.
+1906 - Desiderio Pavoni: Purchased Bezzera's patents and added a pressure release valve and a steam wand. At the Milan Fair, Pavoni and Bezzera introduced the world to "caffè espresso". 
+
+II. The High-Pressure Revolution: The Birth of Crema
+1938/1947 - Achille Gaggia: Frustrated by burnt coffee, Gaggia developed a piston-lever system (initially called "Lampo"). By pulling a lever, a barista compressed a spring that forced water through the coffee at 8–10 bars of pressure. This was the first time "crema" (the golden foam) appeared, which Gaggia marketed as "caffè crema" to distinguish it from older steam-based methods.
+1948: Gaggia launched the "Gaggia Classico," the first commercial machine to move away from steam as the primary extraction force. 
+
+III. The Electric and Modern Era
+1961 - Ernesto Valente (Faema): Invented the Faema E61, a landmark machine that replaced the manual lever with an electric rotary pump. This ensured a consistent 9 bars of pressure without physical effort. It also introduced the thermosyphon circuit, which stabilized temperature by circulating water from the boiler through the group head.
+1970 - La Marzocco: Introduced the GS (Gruppo Saturo), the first machine with dual boilers—one for brewing and one for steam. This allowed for precise temperature control, a standard in modern specialty coffee. 
+
+Technical Specifications Summary for RAG Testing:
+Moriondo (1884): Bulk brewing, steam-based.
+Bezzera (1901): Single-serve, 1.5 bars, portafilter introduced.
+Gaggia (1947): Lever-piston, 8-10 bars, "crema" invented.
+Faema E61 (1961): Electric pump, 9 bars, thermosyphon.
+Modern Standard: 9 bars of pressure, 88-93°C brew temperature, 25-30 second extraction time. 

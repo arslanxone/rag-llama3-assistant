@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+chroma_db/
+chroma_db_streamlit/
+*.sqlite3
+*.bin
+.DS_Store
